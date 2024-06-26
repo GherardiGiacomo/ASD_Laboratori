@@ -23,8 +23,8 @@ Il main per interagire con il social network vi viene già fornito, voi dovrete 
 funzioni presenti nel filenetwork.cppche troverete, assieme ad altri file, all’interno del file .zip scaricabile da Aulaweb nella
 sezione relativa al laboratorio 10. Più in dettaglio le funzioni da implementare sono le seguenti dichiarate nel filenetwork.h:
 
-![](src/#1.jpeg)
-![](src/#2.jpeg)
+![](src/codice_1.png)
+![](src/codice_2.png)
 
 
 
