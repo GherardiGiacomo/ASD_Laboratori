@@ -2,7 +2,7 @@
 // Compilare con g++ -Wall ASD-doubly-linked-list.cpp ASD-main-manual.cpp -o ASD-main-manual
 
 // NON MODIFICARE QUESTO FILE
-
+ 
 #include <iostream>
 #include "ASD-doubly-linked-list.h"
 
